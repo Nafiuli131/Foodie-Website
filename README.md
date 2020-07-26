@@ -20,3 +20,14 @@ JavaScript
  MySQL is used for the database
  Software requirements were Sublime code editor and XAMPP
  Window 7 or above, Ram 4GB or above
+Homepage:
+
+![Screenshot (111)](https://user-images.githubusercontent.com/32985815/88473203-01e59800-cf3d-11ea-843c-b9c82d57baf7.png)
+
+Sign-up page
+
+![Screenshot (112)](https://user-images.githubusercontent.com/32985815/88473220-293c6500-cf3d-11ea-99fe-a8478b85da2d.png)
+
+Restaurent Page
+
+![Screenshot (113)](https://user-images.githubusercontent.com/32985815/88473235-59840380-cf3d-11ea-938c-8aee5fe99d7f.png)
